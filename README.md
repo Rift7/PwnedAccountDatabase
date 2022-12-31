@@ -15,7 +15,7 @@ The Pwned Account Database is a tool for storing and searching a database of com
 
 ## Usage
 
-To use the Pwned Account Database, follow these steps:
+To host your own Pwned Account Database, follow these steps:
 
 Clone this repository to your local machine:
 
@@ -41,7 +41,7 @@ Then, open a web browser and go to [`http://127.0.0.1:8080/{query}`](http://127.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Rift7/PwnedAccountDatabase/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
