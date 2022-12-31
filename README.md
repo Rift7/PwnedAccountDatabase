@@ -9,6 +9,10 @@ The Pwned Account Database is a tool for storing and searching a database of com
 * Query the database from a web browser
 * GUI application with a search box and output box
 
+## Requirements
+
+* A current installation of Rust
+
 ## Usage
 
 To use the Pwned Account Database, follow these steps:
