@@ -4,7 +4,7 @@ extern crate sled;
 use actix_web::{web, App, HttpServer, Responder};
 
 fn index(info: web::Path<(String,)>) -> impl Responder {
-    let db = sled::open("emails_and_passwords.db").unwrap();
+    let db = sled::open("breach_data.db").unwrap();
 
     let query = info.0.as_bytes();
     let mut response = String::new();
