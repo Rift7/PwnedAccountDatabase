@@ -1,0 +1,11 @@
+[package]
+name = "pwned-account-database-import"
+version = "0.1.0"
+authors = ["Joshua Hedge"]
+
+[dependencies]
+sled = "0.34"
+
+[[bin]]
+name = "ImportBreachData"
+path = "src/ImportBreachData.rs"
