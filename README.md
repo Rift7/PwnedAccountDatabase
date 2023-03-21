@@ -1,5 +1,7 @@
 # Pwned Account Database
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 The Pwned Account Database is a tool for storing and searching a database of compromised email accounts and passwords. It allows users to easily compile a self hosted database from any password lists found while using their OSINT tactics.
 
 ## Features
